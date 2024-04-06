@@ -25,7 +25,7 @@
 |-|2.3 인덱스 확장 기능 사용법|2024/04/04|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter02/Ch2-3.%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%ED%99%95%EC%9E%A5%EA%B8%B0%EB%8A%A5%20%EC%82%AC%EC%9A%A9%EB%B2%95.md)|
 |3|**인덱스 튜닝**|-|-|
 |-|3.1 테이블 액세스 최소화|2024/04/04|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter03/Ch3-1.%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%95%A1%EC%84%B8%EC%8A%A4%20%EC%B5%9C%EC%86%8C%ED%99%94.md)|
-|-|3.2 부분범위 처리 활용|||
+|-|3.2 부분범위 처리 활용|2024/04/05|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter03/Ch3-2.%20%EB%B6%80%EB%B6%84%EB%B2%94%EC%9C%84%20%EC%B2%98%EB%A6%AC%20%ED%99%9C%EC%9A%A9.md)|
 |-|3.3 인덱스 스캔 효율화|||
 |-|3.4 인덱스 설계|||
 |4|**조인 튜닝**|-|-|
