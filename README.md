@@ -26,12 +26,12 @@
 |3|**인덱스 튜닝**|-|-|
 |-|3.1 테이블 액세스 최소화|2024/04/04|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter03/Ch3-1.%20%ED%85%8C%EC%9D%B4%EB%B8%94%20%EC%95%A1%EC%84%B8%EC%8A%A4%20%EC%B5%9C%EC%86%8C%ED%99%94.md)|
 |-|3.2 부분범위 처리 활용|2024/04/05|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter03/Ch3-2.%20%EB%B6%80%EB%B6%84%EB%B2%94%EC%9C%84%20%EC%B2%98%EB%A6%AC%20%ED%99%9C%EC%9A%A9.md)|
-|-|3.3 인덱스 스캔 효율화|||
-|-|3.4 인덱스 설계|||
+|-|3.3 인덱스 스캔 효율화|2024/04/08|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter03/Ch3-3.%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%8A%A4%EC%BA%94%20%ED%9A%A8%EC%9C%A8%ED%99%94.md)|
+|-|3.4 인덱스 설계|2024/04/08|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter03/Ch3-4.%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%84%A4%EA%B3%84.md)|
 |4|**조인 튜닝**|-|-|
-|-|4.1 NL 조인|||
-|-|4.2 소트 머지 조인|||
-|-|4.3 해시 조인|||
+|-|4.1 NL 조인|2024/04/09|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter04/Ch4-1.%20NL%EC%A1%B0%EC%9D%B8.md)|
+|-|4.2 소트 머지 조인|2024/04/09|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter04/Ch4-2.%20%EC%86%8C%ED%8A%B8%20%EB%A8%B8%EC%A7%80%20%EC%A1%B0%EC%9D%B8.md)|
+|-|4.3 해시 조인|2024/04/09|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter04/Ch4-3.%20%ED%95%B4%EC%8B%9C%20%EC%A1%B0%EC%9D%B8.md)|
 |-|4.4 서브쿼리 조인|||
 |5|**소트 튜닝**|-|-|
 |-|5.1 소트 연산에 대한 이해|||
