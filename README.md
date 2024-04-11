@@ -32,12 +32,12 @@
 |-|4.1 NL 조인|2024/04/09|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter04/Ch4-1.%20NL%EC%A1%B0%EC%9D%B8.md)|
 |-|4.2 소트 머지 조인|2024/04/09|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter04/Ch4-2.%20%EC%86%8C%ED%8A%B8%20%EB%A8%B8%EC%A7%80%20%EC%A1%B0%EC%9D%B8.md)|
 |-|4.3 해시 조인|2024/04/09|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter04/Ch4-3.%20%ED%95%B4%EC%8B%9C%20%EC%A1%B0%EC%9D%B8.md)|
-|-|4.4 서브쿼리 조인|||
+|-|4.4 서브쿼리 조인|2024/04/11|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter04/Ch4-4.%20%EC%84%9C%EB%B8%8C%EC%BF%BC%EB%A6%AC%20%EC%A1%B0%EC%9D%B8.md)|
 |5|**소트 튜닝**|-|-|
-|-|5.1 소트 연산에 대한 이해|||
-|-|5.2 소트가 발생하지 않도록 SQL 작성|||
-|-|5.3 인덱스를 이용한 소트 연산 생략|||
-|-|5.4 SortArea를 적게 사용하도록 SQL 작성|||
+|-|5.1 소트 연산에 대한 이해|2024/04/11|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter05/Ch5-1.%20%EC%86%8C%ED%8A%B8%20%EC%97%B0%EC%82%B0%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%B4%ED%95%B4.md)|
+|-|5.2 소트가 발생하지 않도록 SQL 작성|2024/04/11|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter05/Ch5-2.%20%EC%86%8C%ED%8A%B8%EA%B0%80%20%EB%B0%9C%EC%83%9D%ED%95%98%EC%A7%80%20%EC%95%8A%EB%8F%84%EB%A1%9D%20SQL%20%EC%9E%91%EC%84%B1.md)|
+|-|5.3 인덱스를 이용한 소트 연산 생략|2024/04/11|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter05/Ch5-3.%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%86%8C%ED%8A%B8%20%EC%97%B0%EC%82%B0%20%EC%83%9D%EB%9E%B5.md)|
+|-|5.4 SortArea를 적게 사용하도록 SQL 작성|2024/04/11|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter05/Ch5-4.%20Sort%20Area%EB%A5%BC%20%EC%A0%81%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8F%84%EB%A1%9D%20SQL%20%EC%9E%91%EC%84%B1.md)|
 |6|**DML튜닝**|-|-|
 |-|6.1 기본 DML 튜닝|||
 |-|6.2 Direct Path I/O 활용|||
