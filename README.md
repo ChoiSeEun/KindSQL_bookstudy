@@ -39,8 +39,8 @@
 |-|5.3 인덱스를 이용한 소트 연산 생략|2024/04/11|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter05/Ch5-3.%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%86%8C%ED%8A%B8%20%EC%97%B0%EC%82%B0%20%EC%83%9D%EB%9E%B5.md)|
 |-|5.4 SortArea를 적게 사용하도록 SQL 작성|2024/04/11|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter05/Ch5-4.%20Sort%20Area%EB%A5%BC%20%EC%A0%81%EA%B2%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8F%84%EB%A1%9D%20SQL%20%EC%9E%91%EC%84%B1.md)|
 |6|**DML튜닝**|-|-|
-|-|6.1 기본 DML 튜닝|||
-|-|6.2 Direct Path I/O 활용|||
+|-|6.1 기본 DML 튜닝|2024/04/12|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter06/Ch6-1.%20%EA%B8%B0%EB%B3%B8%20DML%20%ED%8A%9C%EB%8B%9D.md)|
+|-|6.2 Direct Path I/O 활용|2024/04/12|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter06/Ch6-2.%20Direct%20Path%20IO%20%ED%99%9C%EC%9A%A9.md)|
 |-|6.3 파티션을 활용한 DML 튜닝|||
 |-|6.4 Lock과 트랜잭션 동시성 제어|||
 |7|**SQL옵티마이저**|-|-|
