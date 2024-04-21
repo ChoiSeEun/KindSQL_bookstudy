@@ -44,7 +44,7 @@
 |-|6.3 파티션을 활용한 DML 튜닝|2024/04/15|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter06/Ch6-3.%20%20%ED%8C%8C%ED%8B%B0%EC%85%98%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20DML%20%ED%8A%9C%EB%8B%9D.md)|
 |-|6.4 Lock과 트랜잭션 동시성 제어|2024/04/15|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter06/Ch6-4.%20Lock%EA%B3%BC%20%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%20%EB%8F%99%EC%8B%9C%EC%84%B1%20%EC%A0%9C%EC%96%B4.md)|
 |7|**SQL옵티마이저**|-|-|
-|-|7.1 통계정보와 비용 계산 원리|||
-|-|7.2 옵티마이저에 대한 이해|||
+|-|7.1 통계정보와 비용 계산 원리|2024/04/21|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter07/Ch7-1.%20%ED%86%B5%EA%B3%84%EC%A0%95%EB%B3%B4%EC%99%80%20%EB%B9%84%EC%9A%A9%20%EA%B3%84%EC%82%B0%20%EC%9B%90%EB%A6%AC.md)|
+|-|7.2 옵티마이저에 대한 이해|2024/04/21|[note](https://github.com/ChoiSeEun/KindSQL_bookstudy/blob/main/Chapter07/Ch7-2.%20%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%B4%ED%95%B4.md)|
 
 </div>
